@@ -177,4 +177,10 @@ Skills are derived from official Informatica PowerCenter 10.4.0 documentation:
 
 This project is licensed under the [Apache License 2.0](LICENSE).
 
-The migration plan, skill structure, and Databricks/Spark mappings are original work released under Apache-2.0. The skills are derived from Informatica's publicly available documentation; Informatica, PowerCenter, and related marks are trademarks of Informatica LLC.
+The migration plan, skill structure, and Databricks/Spark mappings are original work released under Apache-2.0.
+
+This repository references third-party tools that are separate projects with their own licenses:
+- [Databricks Lakebridge](https://github.com/databrickslabs/lakebridge) — Databricks Labs
+- [Databricks AI Dev Kit](https://github.com/databricks-solutions/ai-dev-kit) — Databricks Solutions
+
+The skills are derived from Informatica's publicly available documentation. Informatica, PowerCenter, and related marks are trademarks of Informatica LLC. Databricks and related marks are trademarks of Databricks, Inc. This project is not affiliated with or endorsed by Informatica LLC or Databricks, Inc.
