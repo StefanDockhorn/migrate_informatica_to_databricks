@@ -5,7 +5,6 @@
 ![Skills](https://img.shields.io/badge/skills-46-blue?style=flat)
 ![Databricks](https://img.shields.io/badge/Built%20for-Databricks-FF3621?logo=databricks&style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/StefanDockhorn/migrate_informatica_to_databricks?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/StefanDockhorn/migrate_informatica_to_databricks?style=flat)
 
 > **Hybrid, AI-augmented migration toolkit** combining bulk transpilation (Lakebridge), intelligent gap-filling (AI Coding Assistant + custom skills), and workspace-aware deployment (Databricks AI Dev Kit).
 
