@@ -1,5 +1,12 @@
 # Informatica PowerCenter → Databricks Migration
 
+![License](https://img.shields.io/github/license/StefanDockhorn/migrate_informatica_to_databricks)
+![Informatica](https://img.shields.io/badge/Informatica-PowerCenter%2010.4.0-red)
+![Skills](https://img.shields.io/badge/skills-46-blue)
+![Databricks](https://img.shields.io/badge/Built%20for-Databricks-FF3621?logo=databricks)
+![GitHub last commit](https://img.shields.io/github/last-commit/StefanDockhorn/migrate_informatica_to_databricks)
+![GitHub repo size](https://img.shields.io/github/repo-size/StefanDockhorn/migrate_informatica_to_databricks)
+
 > **Hybrid, AI-augmented migration toolkit** combining bulk transpilation (Lakebridge), intelligent gap-filling (AI Coding Assistant + custom skills), and workspace-aware deployment (Databricks AI Dev Kit).
 
 ---
