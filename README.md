@@ -175,4 +175,6 @@ Skills are derived from official Informatica PowerCenter 10.4.0 documentation:
 
 ## License
 
-These skills are generated from Informatica's publicly available documentation. The skill structure and Databricks mappings are provided as-is for educational and migration purposes. Informatica, PowerCenter, and related marks are trademarks of Informatica LLC.
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+The migration plan, skill structure, and Databricks/Spark mappings are original work released under Apache-2.0. The skills are derived from Informatica's publicly available documentation; Informatica, PowerCenter, and related marks are trademarks of Informatica LLC.
