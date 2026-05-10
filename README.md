@@ -184,3 +184,5 @@ This repository references third-party tools that are separate projects with the
 - [Databricks AI Dev Kit](https://github.com/databricks-solutions/ai-dev-kit) — Databricks Solutions
 
 The skills are derived from Informatica's publicly available documentation. Informatica, PowerCenter, and related marks are trademarks of Informatica LLC. Databricks and related marks are trademarks of Databricks, Inc. This project is not affiliated with or endorsed by Informatica LLC or Databricks, Inc.
+
+Code examples and mappings in this repository are illustrative. Validate all generated code in your own environment before production use.
